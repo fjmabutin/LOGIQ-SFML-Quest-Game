@@ -3,8 +3,11 @@ It is a desktop game where user select a time interval, answer riddle questions 
 
 ✨ **Features**
   • Select your preferred time interval
+
   • Answer riddle questions by clicking 4 buttons (choices)
+
   • Points automatically calculated +1 each correct answer
+
   • Total score displayed when the timer ends
 
 🚀 **How to Run**
