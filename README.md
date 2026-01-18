@@ -1,3 +1,3 @@
-# CODE QUEST GAME
+🧠 # LOGIQ
+It is a desktop game where user select a time interval, answer riddle questions under a timer, and see how many points they can score before time runs out.
 
-Code Quest is a quiz-based programming game where players analyze short code snippets and choose the correct expected output from multiple-choice answers.
