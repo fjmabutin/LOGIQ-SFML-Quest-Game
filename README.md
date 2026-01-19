@@ -11,16 +11,16 @@ It is a desktop game where users select a time interval, answer riddle questions
  - A quick look at how to play LOGIQ and enjoy the game step by step.
 
 **🎮 Homepage**
-<img src="assets/gif_button-hover.gif" width="350" />
+<img src="assets/gif_button-hover.gif" width="320" />
 
 **🎮 Time Selection**
-<img src="assets/gif_time-select.gif" width="350" />
+<img src="assets/gif_time-select.gif" width="320" />
 
 **🎮 Answer Feedback**
-<img src="assets/gif_correct&wrong_feedback.gif" width="350" />
+<img src="assets/gif_correct&wrong_feedback.gif" width="320" />
 
 **🎮 Final Results**
-<img src="assets/gif_score-display.gif" width="350" />
+<img src="assets/gif_score-display.gif" width="320" />
 
 🚀 **How to Run**
  - Install SFML v1.7 or the latest version.
