@@ -1,11 +1,26 @@
 # 🧠 **LOGIQ**
-It is a desktop game where user select a time interval, answer riddle questions under a timer, and see how many points they can score before time runs out.
+It is a desktop game where users select a time interval, answer riddle questions under a timer, and see how many points they can score before time runs out.
 
 ✨ **Features**
  - Select your preferred time interval
  - Answer riddle questions by clicking 4 buttons (choices)
  - Points automatically calculated +1 each correct answer
  - Total score displayed when the timer ends
+
+🕹️ **Gameplay Walkthrough**
+ - A quick look at how to play LOGIQ and enjoy the game step by step.
+
+**🎮 Homepage**
+<p align="center"> <img src="assets/gif_button-hover.gif" width="320" /> </p>
+
+**🎮 Time Selection**
+<p align="center"> <img src="assets/time-select.gif" width="320" /> </p>
+
+**🎮 Answer Feedback**
+<p align="center"> <img src="assets/gif_correct&wrong_feedback.gif" width="320" /> </p>
+
+**🎮 Final Results**
+<p align="center"> <img src="assets/gif_score-display.gif" width="320" /> </p>
 
 🚀 **How to Run**
  - Install SFML v1.7 or the latest version.
